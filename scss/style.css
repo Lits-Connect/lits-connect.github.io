@@ -665,7 +665,7 @@ h1, h2, h3, h4, h5,
 
 .site-navbar .site-logo a {
   color: #43ab92;
-  text-transform: lowercase;
+  text-transform: lowercase !important;
 }
 
 @media (max-width: 991.98px) {
